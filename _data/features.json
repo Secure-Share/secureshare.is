@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Security First",
+    "description": "Secure Share does not compromise security",
+    "image": {
+      "url": "images/features/noun_branding_1885335.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Cybersecurity Experts",
+    "description": "Secure Share is built by cybersecurity experts for businesses",
+    "image": {
+      "url": "images/features/noun_The Process_1885341.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Electronic Signatures",
+    "description": "We are building electronic signatures into Secure Share on top of the sharing features",
+    "image": {
+      "url": "images/features/noun_3d modeling_1885342.svg",
+      "width": 80,
+      "height": 80
+    }
+  }
+]

@@ -1,0 +1,21 @@
+main:
+  - name: "About"
+    url: "/about/"
+    weight: 2
+  - name: "Contact"
+    url: "/contact/"
+    weight: 3
+
+footer:
+  - name: "Home"
+    url: "/"
+    weight: 1
+  - name: "Contact"
+    url: "/contact/"
+    weight: 2
+  - name: "Terms of service"
+    url: "/terms/"
+    weight: 2
+  - name: "Privacy policy"
+    url: "/privacy/"
+    weight: 2
