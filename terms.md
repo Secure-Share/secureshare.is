@@ -2,6 +2,7 @@
 permalink: /terms/
 layout: page
 title: Terms of Service
+description: Terms of Service
 ---
 
 <p>These Terms of Use are part of the agreement between Codiak slf. and its related entities (“Codiak”, “we”, “us” or “our”) and each visitor or registered user, as the case may be (each, a “user” or “you”) concerning the use of the Codiak Websites or our mobile applications (collectively, the “Service”). The other part of the agreement is the<span>&nbsp;</span><a href="https://www.secureshare.is/privacy" rel="noopener" target="_blank">Privacy Notice</a>. By using the Service, you agree to be bound by the Terms of Use (“Agreement”), whether or not you are a registered user. This Agreement sets out the legally binding terms for your access and use of the Service.</p>
