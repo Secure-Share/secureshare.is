@@ -9,8 +9,8 @@
     }
   },
   {
-    "title": "Cybersecurity Experts",
-    "description": "Secure Share is built by cybersecurity experts for businesses",
+    "title": "Secure Encryption",
+    "description": "Secure Share is based on an open source end-to-end encryption protocol",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
@@ -19,7 +19,7 @@
   },
   {
     "title": "Electronic Signatures",
-    "description": "We are building electronic signatures into Secure Share on top of the sharing features",
+    "description": "We are working hard on allowing our customers to securely share and digitally sign documents",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,
