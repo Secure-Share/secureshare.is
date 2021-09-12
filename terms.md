@@ -1,11 +1,11 @@
-<div class="span12 page-center">
-      
-    <div class="row-fluid-wrapper">
-      <div class="row-fluid">
-        <div class="span1"></div>
-        <div class="span8">
+---
+permalink: /terms/
+layout: page
+---
 
-          <p><strong>Effective Starting Date:<span>&nbsp;</span></strong>September 10, 2015</p>
+# Terms of Service
+
+<p><strong>Effective Starting Date:<span>&nbsp;</span></strong>September 10, 2015</p>
 <p>These Terms of Use are part of the agreement between Codiak slf. and its related entities (“Codiak”, “we”, “us” or “our”) and each visitor or registered user, as the case may be (each, a “user” or “you”) concerning the use of the Codiak Websites or our mobile applications (collectively, the “Service”). The other part of the agreement is the<span>&nbsp;</span><a href="https://www.secureshare.is/privacy" rel="noopener" target="_blank">Privacy Notice</a>. By using the Service, you agree to be bound by the Terms of Use (“Agreement”), whether or not you are a registered user. This Agreement sets out the legally binding terms for your access and use of the Service.</p>
 <p>We may change this Agreement from time to time. If we make any changes, we will notify you by revising the “Effective Starting” date at the top of this Agreement and, in some cases, where appropriate we may provide you with additional notice (such as adding a statement to the login screen or sending you an email notification). We encourage you to review this Agreement whenever you use our Services.<span>&nbsp;</span><strong>Your continued use of the Service after any changes to this Agreement will constitute your acceptance of such modification</strong>. If you disagree with any changes to this Agreement, you will need to stop using our Services.</p>
 <h2 id="TermsofUse-1.Definitions">1. Definitions</h2>
@@ -70,12 +70,12 @@
 <h2 id="TermsofUse-14.ContactUs.">15. Contact Us</h2>
 <p>If you have any questions or concerns regarding the Service, please contact Codiak slf., Álfhólsvegur 22a, 200 Kópavogur, Iceland by e-mail at secureshare@secureshare.is.</p>
 
-          
-          
-        </div>
-        <div class="span3"></div>
-    
-      </div>
-    </div>
-        
-  </div>
+
+
+
+<div class="span3"></div>
+
+
+
+
+

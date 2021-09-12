@@ -1,31 +1,28 @@
 ---
 permalink: /privacy/
+layout: page
 ---
-<div class="span12 page-center">
-      
-    <div class="row-fluid-wrapper">
-      <div class="row-fluid">
-        <div class="span2"></div>
-        <div class="span8">
 
-          <p><span>Effective Starting Date: September 11, 2021 (</span><span><a href="/privacy" rel="noopener" target="_blank">view archived versions</a></span><span>)</span></p>
+# Privacy policy
+
+<p><span>Effective Starting Date: September 11, 2021 (</span><span><a href="/privacy" rel="noopener" target="_blank">view archived versions</a></span><span>)</span></p>
 <p>This Privacy Policy was developed by Codiak slf.</p>
 <p>This Policy describes how personal information is collected, for what purposes it is collected, how we share it, how we handle the content you place in our products and services, and the steps we take to secure this information.</p>
 <p>Contents</p>
 <ol>
-<li>Why do we collect personal information</li>
-<li>How do we collect personal information</li>
-<li>How we use your personal information</li>
-<li>With whom do we share your personal information</li>
-<li>Data retention</li>
-<li>Data security</li>
-<li>International data transfer</li>
-<li>No automated decision-making</li>
-<li>California Privacy Rights</li>
-<li>Your rights concerning your personal information</li>
-<li>Complaints</li>
-<li>Changes to the Privacy Policy</li>
-<li>Contacting us</li>
+  <li>Why do we collect personal information</li>
+  <li>How do we collect personal information</li>
+  <li>How we use your personal information</li>
+  <li>With whom do we share your personal information</li>
+  <li>Data retention</li>
+  <li>Data security</li>
+  <li>International data transfer</li>
+  <li>No automated decision-making</li>
+  <li>California Privacy Rights</li>
+  <li>Your rights concerning your personal information</li>
+  <li>Complaints</li>
+  <li>Changes to the Privacy Policy</li>
+  <li>Contacting us</li>
 </ol>
 <h2>1. Why do we collect personal information</h2>
 <p>Personal Information is information about you that can be used alone, or combined with other information, to identify you personally. Personal Information is a broad concept and includes a wide range of information such as name, email address, mailing address, IP addresses and cookie identifiers. Personal Information does not include information that has been anonymized such that it does not allow for the identification of a specific individual. We collect Personal Information to operate effectively, and to provide you the best experiences with our Codiak Services.</p>
@@ -60,15 +57,15 @@ permalink: /privacy/
 <p>When we use your personal information, it will be (a) with your consent, or (b) for one of two basic purposes: (1) to operate our business and provide (including improving and personalizing) the products we offer, and (2) to send communications, including promotional communications.</p>
 <p>Operating our Business. We use your information to provide and improve the products we offer and perform essential business operations. This includes operating the products, maintaining and improving the performance of the products, developing new features, conducting research, evaluating your suitability for employment opportunities, and providing customer support. Examples of such uses include the following:</p>
 <ul>
-<li>Providing the Products. We use your information to carry out your transactions with us and to provide our products to you.</li>
-<li>Customer support. We use your information to diagnose product problems, and provide other customer care and support services.</li>
-<li>Product Improvement. We use your information to continually improve our products, including adding new features or capabilities.</li>
-<li>If you provide payment information, we use such information solely to collect payment from you. We use a third-party service provider to manage credit card processing.</li>
-<li>Security, Safety and Dispute Resolution. We use your information to protect the security and safety of our products and our customers, to detect and prevent fraud, to confirm the validity of software licenses, to resolve disputes and enforce our agreements.</li>
-<li>Employment Opportunities. We use your information to evaluate your suitability for employment or recruitment opportunities.</li>
-<li>Business Operations. We use your information to develop aggregate analysis and business intelligence that enables us to operate, protect, make informed decisions, and report on the performance of our business.</li>
-<li>Legal Obligations. We use your information as required by law.</li>
-<li>We use your information to communicate with you and personalize our communications with you.</li>
+  <li>Providing the Products. We use your information to carry out your transactions with us and to provide our products to you.</li>
+  <li>Customer support. We use your information to diagnose product problems, and provide other customer care and support services.</li>
+  <li>Product Improvement. We use your information to continually improve our products, including adding new features or capabilities.</li>
+  <li>If you provide payment information, we use such information solely to collect payment from you. We use a third-party service provider to manage credit card processing.</li>
+  <li>Security, Safety and Dispute Resolution. We use your information to protect the security and safety of our products and our customers, to detect and prevent fraud, to confirm the validity of software licenses, to resolve disputes and enforce our agreements.</li>
+  <li>Employment Opportunities. We use your information to evaluate your suitability for employment or recruitment opportunities.</li>
+  <li>Business Operations. We use your information to develop aggregate analysis and business intelligence that enables us to operate, protect, make informed decisions, and report on the performance of our business.</li>
+  <li>Legal Obligations. We use your information as required by law.</li>
+  <li>We use your information to communicate with you and personalize our communications with you.</li>
 </ul>
 <p>If your consent is the basis for our use of your personal information, then you have the right to withdraw your consent at any time. If you wish to withdraw consent, please email us in accordance with the “Contacting Us” section.</p>
 <h2>4. With whom do we share your personal information</h2>
@@ -107,12 +104,12 @@ permalink: /privacy/
 <h2>10. Your rights concerning your personal information</h2>
 <p>You have the following rights:</p>
 <ol>
-<li>To review, change, or delete your personal information</li>
-<li><span>&nbsp;</span>To object to direct marketing</li>
-<li>To ask about how we are processing your personal information</li>
-<li>To restrict our processing of your personal information</li>
-<li>To have a copy of your personal information</li>
-<li>To transfer your personal information from us to another person or business</li>
+  <li>To review, change, or delete your personal information</li>
+  <li><span>&nbsp;</span>To object to direct marketing</li>
+  <li>To ask about how we are processing your personal information</li>
+  <li>To restrict our processing of your personal information</li>
+  <li>To have a copy of your personal information</li>
+  <li>To transfer your personal information from us to another person or business</li>
 </ol>
 <p>Should you wish to exercise any of your rights, or if you should have any questions concerning your rights, please contact us using the information in Contacting Us section. We will respond within one month.</p>
 <h2>11. Complaints</h2>
@@ -128,12 +125,12 @@ permalink: /privacy/
 <p>If you have questions or comments about our privacy practices, please contact us by e-mail at<span>&nbsp;</span><a href="mailto:legal@secureshare.is" rel=" noopener">legal@secureshare.is</a><span>&nbsp;</span>or by mail at the following address:</p>
 <p>Codiak Software Inc.<br>31 St. James Ave.&nbsp;<br>Boston, MA 02116<br>USA</p>
 
-          
-          
-        </div>
-        <div class="span2"></div>
-    
-      </div>
-    </div>
-        
-  </div>
+
+
+
+<div class="span2"></div>
+
+
+
+
+
