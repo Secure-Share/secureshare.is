@@ -14,8 +14,6 @@ layout: page
   <li>Data security</li>
   <li>International data transfer</li>
   <li>No automated decision-making</li>
-  <li>California Privacy Rights</li>
-  <li>Your rights concerning your personal information</li>
   <li>Complaints</li>
   <li>Changes to the Privacy Policy</li>
   <li>Contacting us</li>
@@ -43,9 +41,9 @@ layout: page
 <p><span>Tel. +354-510-9600<br></span>e-mail: postur@personuvernd.is</p>
 <p><span><a href="https://www.personuvernd.is/information-in-english/" rel="noopener" target="_blank">www.personuvernd.is</a></span></p>
 <p>Additionally, contact details for data protection authorities in the EEA, Switzerland and certain non-European countries are available<span>&nbsp;</span><span><a href="https://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm">here</a></span>.</p>
-<h2>12. Changes to the Privacy Policy</h2>
+<h2>6. Changes to the Privacy Policy</h2>
 <p>When we update this Privacy Policy, we will revise the update date at the top of this page. Any changes to this Privacy Policy will become effective when we post the revised Privacy Policy. Your use of the services following these changes means that you accept the revised Privacy Policy.</p>
-<h2>13. Contacting us</h2>
+<h2>7. Contacting us</h2>
 <p>If you have questions or comments about our privacy practices, please contact us by e-mail at<span>&nbsp;</span><a href="mailto:legal@secureshare.is" rel=" noopener">secureshare@secureshare.is</a><span>&nbsp;</span>
 <div class="span2"></div>
 
