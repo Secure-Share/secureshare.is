@@ -1,9 +1,8 @@
 ---
 permalink: /privacy/
 layout: page
+title: Privacy Policy
 ---
-
-# Privacy policy
 
 <p>This Policy describes how personal information is collected, for what purposes it is collected, how we share it, how we handle the content you place in our products and services, and the steps we take to secure this information.</p>
 <p>Contents</p>
